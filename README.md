@@ -23,9 +23,8 @@ Follow the instructions below to set up and run the script.
 
     ```bash
     pip install telethon
-3. Create a Telegram application and get your API ID and API hash. You can do this by following the official [Telegram documentation](https://my.telegram.org/auth/).
-4. Update the script with your API ID and API hash.
-5. Run the script:
+    
+3. Run the script:
     
     ```bash
     python magic_heart_parade.py
@@ -35,14 +34,4 @@ Follow the instructions below to set up and run the script.
 1. Еnter any chat in your Telegram.
 2. Send the word specified in the words_for_start variable to initiate the magic heart parade animation.
 
-### Features
-
-* Magic heart parade animation.
-* Customizable words to start the animation.
-* Customizable heart symbols and colored hearts.
-
-
-### Author
-
-* [Figeiron](https://github.com/Figeiron/)
 
